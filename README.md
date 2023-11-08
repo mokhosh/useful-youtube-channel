@@ -2,6 +2,7 @@
 
 ## Math and Science
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Crash Course](https://www.youtube.com/@crashcourse) (Has phylosophy, psychology and human sciences too)
 
 ## Software Development
 - [37signals](https://www.youtube.com/@37signals) (Basecamp people, project management)
