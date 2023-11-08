@@ -12,6 +12,8 @@
 - [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
 - [New Money](https://www.youtube.com/@NewMoneyYouTube)
 - [Numerphile](https://www.youtube.com/@numberphile)
+- [Two Cents](https://www.youtube.com/@TwoCentsPBS)
+- [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
 
 ## Software Development
 - [37signals](https://www.youtube.com/@37signals) (Basecamp people, project management)
@@ -27,6 +29,10 @@
 - [Mind the Product](https://www.youtube.com/@MindtheProductTV)
 - [PwnFunctions](https://www.youtube.com/@PwnFunction) (Security)
 - [Success in Tech](https://www.youtube.com/@SuccessinTech) (Scale, architecture)
+- [The Primeagen](https://www.youtube.com/@ThePrimeagen) (Reactions, clips)
+- [The Primetime](https://www.youtube.com/@ThePrimeTimeagen) (Reactions, clips)
+- [The Vimagen](https://www.youtube.com/@TheVimeagen)
+- [YCombinator](https://www.youtube.com/@ycombinator) (Startups)
 
 ## Laravel, PHP, MYSQL
 - [Aaron Francis](https://www.youtube.com/@aarondfrancis) (MYSQL)
@@ -81,6 +87,13 @@
 - [Spatie](https://www.youtube.com/@SPATIE)
 - [SSD Tutorials](https://www.youtube.com/@SSDTutorials)
 - [StreamACon Conferences](https://www.youtube.com/@streamaconstreamingconfere6463)
+- [Tall Stack Stories](https://www.youtube.com/@tallstackstories)
+- [TallForms](https://www.youtube.com/@tallforms9113)
+- [Taylor Otwell](https://www.youtube.com/@taylorotwell6213)
+- [The Codeholic](https://www.youtube.com/@TheCodeholic)
+- [Tony Messias](https://www.youtube.com/@TonyMessias)
+- [Tuto1902](https://www.youtube.com/@Tuto1902)
+- [Yelo Code](https://www.youtube.com/@yelocode)
 
 ## HTML, CSS, Frontend, Design
 - [Adam Wathan](https://www.youtube.com/@AdamWathan)
@@ -101,10 +114,15 @@
 - [Satori Graphics](https://www.youtube.com/@SatoriGraphics)
 - [Simon Swiss](https://www.youtube.com/@Simonswissdev)
 - [Steve Schoger](https://www.youtube.com/@SteveSchoger)
+- [Tailwind Labs](https://www.youtube.com/@TailwindLabs)
+- [Vue Mastery](https://www.youtube.com/@VueMastery)
+- [Zimri Mayfield](https://www.youtube.com/@zimrimayfield)
 
 ## Soft Skills, Negotiation, Pricing
 - [Jonathan Stark](https://www.youtube.com/@TheJonathanStarkShow)
 - [GCFLearnFree](https://www.youtube.com/@GCFLearnFree)
+- [The Futur](https://www.youtube.com/@thefutur)
+- [The Futur Academy](https://www.youtube.com/@TheFuturAcademy)
 
 ## Philosophy, Psychology, Religion
 - [Academy of Ideas](https://www.youtube.com/@academyofideas)
@@ -128,6 +146,11 @@
 - [Sam Harris](https://www.youtube.com/@samharrisorg)
 - [SciShow Psych](https://www.youtube.com/@SciShowPsych)
 - [Sprouts](https://www.youtube.com/@sprouts)
+- [The School of Life](https://www.youtube.com/@theschooloflifetv)
+- [Tim Ferris](https://www.youtube.com/@timferriss)
+- [Waking Up](https://www.youtube.com/@WakingUpApp)
+- [YaleCourses](https://www.youtube.com/@YaleCourses)
+- [Yuval Noah Harari](https://www.youtube.com/@YuvalNoahHarari)
 
 ## Self-help, Productivity
 - [Ali Abdaal](https://www.youtube.com/@aliabdaal)
@@ -140,6 +163,9 @@
 - [Geek Psychology](https://www.youtube.com/@GeekPsychology)
 - [Productivity Game](https://www.youtube.com/@ProductivityGame)
 - [Rich Watkins](https://www.youtube.com/@richardwatkins)
+- [What I've Learned](https://www.youtube.com/@WhatIveLearned)
+- [WheezyWaiter](https://www.youtube.com/@wheezywaiter)
+- [Wolfsuka Book Summaries](https://www.youtube.com/@wolfsukabooksummaries7107)
 
 ## Uncategorized
 - [DIY Perks](https://www.youtube.com/@DIYPerks) (I like the creative and hands on attitude)
