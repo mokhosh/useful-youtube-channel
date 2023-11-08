@@ -35,6 +35,7 @@
 - [Laravel News](https://www.youtube.com/@laravelnews)
 - [Laravel Podcast](https://www.youtube.com/@LaravelPodcast)
 - [Laravel Switzerland Meetup](https://www.youtube.com/@laravel-switzerland-meetup)
+- [LaravelOnline](https://www.youtube.com/@LaravelOnline)
 - [Livewire](https://www.youtube.com/@LivewirePHP)
 - [Mateus Guimaraes](https://www.youtube.com/@MateusGuimaraes)
 - [Matt Staufer](https://www.youtube.com/@MattStauffer)
