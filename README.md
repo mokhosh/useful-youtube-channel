@@ -26,6 +26,7 @@
 - [MicroConf](https://www.youtube.com/@MicroConf)
 - [Mind the Product](https://www.youtube.com/@MindtheProductTV)
 - [PwnFunctions](https://www.youtube.com/@PwnFunction) (Security)
+- [Success in Tech](https://www.youtube.com/@SuccessinTech) (Scale, architecture)
 
 ## Laravel, PHP, MYSQL
 - [Aaron Francis](https://www.youtube.com/@aarondfrancis) (MYSQL)
@@ -76,6 +77,10 @@
 - [Program with Gio](https://www.youtube.com/@ProgramWithGio)
 - [Przemyslaw Przylucki](https://www.youtube.com/@saaslaravel)
 - [Ryan Chandler](https://www.youtube.com/@ryangjchandler)
+- [Sentgine](https://www.youtube.com/@sentgine)
+- [Spatie](https://www.youtube.com/@SPATIE)
+- [SSD Tutorials](https://www.youtube.com/@SSDTutorials)
+- [StreamACon Conferences](https://www.youtube.com/@streamaconstreamingconfere6463)
 
 ## HTML, CSS, Frontend, Design
 - [Adam Wathan](https://www.youtube.com/@AdamWathan)
@@ -92,6 +97,10 @@
 - [Kevin Powell](https://www.youtube.com/@KevinPowell)
 - [Layout Land](https://www.youtube.com/@LayoutLand)
 - [Learn Code Academy](https://www.youtube.com/@learncodeacademy)
+- [Sam Selikoff](https://www.youtube.com/@samselikoff)
+- [Satori Graphics](https://www.youtube.com/@SatoriGraphics)
+- [Simon Swiss](https://www.youtube.com/@Simonswissdev)
+- [Steve Schoger](https://www.youtube.com/@SteveSchoger)
 
 ## Soft Skills, Negotiation, Pricing
 - [Jonathan Stark](https://www.youtube.com/@TheJonathanStarkShow)
@@ -115,6 +124,10 @@
 - [Practical Psychology](https://www.youtube.com/@PracticalPsychologyTips)
 - [Psych2Go](https://www.youtube.com/@Psych2go)
 - [Russel Brand](https://www.youtube.com/@RussellBrand)
+- [Sadhguru](https://www.youtube.com/@sadhguru)
+- [Sam Harris](https://www.youtube.com/@samharrisorg)
+- [SciShow Psych](https://www.youtube.com/@SciShowPsych)
+- [Sprouts](https://www.youtube.com/@sprouts)
 
 ## Self-help, Productivity
 - [Ali Abdaal](https://www.youtube.com/@aliabdaal)
