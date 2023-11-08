@@ -6,6 +6,7 @@
 - [Domain of Science](https://www.youtube.com/@domainofscience)
 - [Economics Explained](https://www.youtube.com/@EconomicsExplained)
 - [How Money Works](https://www.youtube.com/@HowMoneyWorks)
+- [Kurzgesagt](https://www.youtube.com/@kurzgesagt)
 
 ## Software Development
 - [37signals](https://www.youtube.com/@37signals) (Basecamp people, project management)
@@ -40,6 +41,10 @@
 - [Gary Clark](https://www.youtube.com/@GaryClarkeTech)
 - [GringoDotDev](https://www.youtube.com/@GringoDotDev)
 - [Himanshu Batra](https://www.youtube.com/@batraio)
+- [Jason Mccreary](https://www.youtube.com/@thejasonmccreary)
+- [Jordan Dalton](https://www.youtube.com/@Daltoncast)
+- [Just Steve King](https://www.youtube.com/@JustSteveKing)
+- [Kiaan's Learning](https://www.youtube.com/@kiaanslearning2724)
 
 ## HTML, CSS, Frontend, Design
 - [Adam Wathan](https://www.youtube.com/@AdamWathan)
@@ -52,6 +57,8 @@
 - [Frontend Masters](https://www.youtube.com/@FrontendMasters)
 - [Hadeel Sayed Ahmed](https://www.youtube.com/@hadeelsahmad)
 - [Hyperplexed](https://www.youtube.com/@Hyperplexed)
+- [Juxtopposed](https://www.youtube.com/@juxtopposed)
+- [Kevin Powell](https://www.youtube.com/@KevinPowell)
 
 ## Soft Skills, Negotiation, Pricing
 - [Jonathan Stark](https://www.youtube.com/@TheJonathanStarkShow)
@@ -66,12 +73,15 @@
 - [Chris Williamson](https://www.youtube.com/@ChrisWillx)
 - [Daily Stoic](https://www.youtube.com/@DailyStoic)
 - [Dr Todd Grande](https://www.youtube.com/@DrGrande)
+- [John Vervaeke](https://www.youtube.com/@johnvervaeke)
+- [Jordan Peterson](https://www.youtube.com/@JordanBPeterson)
 
 ## Self-help, Productivity
 - [Ali Abdaal](https://www.youtube.com/@aliabdaal)
 - [Captain Sinbad](https://www.youtube.com/@CaptainSinbad)
 - [Charisma on Command](https://www.youtube.com/@Charismaoncommand)
 - [Emily King](https://www.youtube.com/@emilywking)
+- [Joseph Tsar](https://www.youtube.com/@ttsar)
 
 ## Uncategorized
 - [DIY Perks](https://www.youtube.com/@DIYPerks) (I like the creative and hands on attitude)
