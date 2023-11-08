@@ -1,6 +1,6 @@
 # Useful Youtube Channels
 
-## Laravel, PHP, MYSQL
+## 🐘 Laravel, PHP, MYSQL
 - [Aaron Francis](https://www.youtube.com/@aarondfrancis) (MYSQL)
 - [Acadea.io](https://www.youtube.com/@Acadeaio)
 - [Andre Madarang](https://www.youtube.com/@drehimself)
@@ -61,7 +61,7 @@
 - [Tuto1902](https://www.youtube.com/@Tuto1902)
 - [Yelo Code](https://www.youtube.com/@yelocode)
 
-## HTML, CSS, Frontend, Design
+## 💅 HTML, CSS, Frontend, Design
 - [Adam Wathan](https://www.youtube.com/@AdamWathan)
 - [Awwwards](https://www.youtube.com/@AwwwardsTV)
 - [Build UX](https://www.youtube.com/@buildux)
@@ -84,7 +84,7 @@
 - [Vue Mastery](https://www.youtube.com/@VueMastery)
 - [Zimri Mayfield](https://www.youtube.com/@zimrimayfield)
 
-## Software Development
+## 👨‍💻 Software Development
 - [37signals](https://www.youtube.com/@37signals) (Basecamp people, project management)
 - [Adeva](https://www.youtube.com/@AdevaExplore) (Interviews)
 - [CJ Avilla](https://www.youtube.com/@cjav_dev)
@@ -103,13 +103,13 @@
 - [The Vimagen](https://www.youtube.com/@TheVimeagen)
 - [YCombinator](https://www.youtube.com/@ycombinator) (Startups)
 
-## Soft Skills, Negotiation, Pricing
+## 👥 Soft Skills, Negotiation, Pricing
 - [Jonathan Stark](https://www.youtube.com/@TheJonathanStarkShow)
 - [GCFLearnFree](https://www.youtube.com/@GCFLearnFree)
 - [The Futur](https://www.youtube.com/@thefutur)
 - [The Futur Academy](https://www.youtube.com/@TheFuturAcademy)
 
-## Philosophy, Psychology, Religion
+## 🧠 Philosophy, Psychology, Religion
 - [Academy of Ideas](https://www.youtube.com/@academyofideas)
 - [Andrew Humberman](https://www.youtube.com/@hubermanlab)
 - [Big Think](https://www.youtube.com/@bigthink)
@@ -137,7 +137,7 @@
 - [YaleCourses](https://www.youtube.com/@YaleCourses)
 - [Yuval Noah Harari](https://www.youtube.com/@YuvalNoahHarari)
 
-## Self-help, Productivity
+## 🧘 Self-help, Productivity
 - [Ali Abdaal](https://www.youtube.com/@aliabdaal)
 - [Captain Sinbad](https://www.youtube.com/@CaptainSinbad)
 - [Charisma on Command](https://www.youtube.com/@Charismaoncommand)
@@ -152,11 +152,11 @@
 - [WheezyWaiter](https://www.youtube.com/@wheezywaiter)
 - [Wolfsuka Book Summaries](https://www.youtube.com/@wolfsukabooksummaries7107)
 
-## Creative Attitude
+## 🤘 Creative Attitude
 - [DIY Perks](https://www.youtube.com/@DIYPerks)
 - [Mark Rober](https://www.youtube.com/@MarkRober)
 
-## Math and Science
+## 🧪 Math and Science
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 - [Crash Course](https://www.youtube.com/@crashcourse) (Has phylosophy, psychology and human sciences too)
 - [Domain of Science](https://www.youtube.com/@domainofscience)
