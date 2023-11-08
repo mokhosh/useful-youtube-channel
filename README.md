@@ -17,6 +17,7 @@
 - [FreeCodeCamp](https://www.youtube.com/@freecodecamp) (Tutorials)
 - [Gaurav Sen](https://www.youtube.com/@gkcs) (Algorithms, system design)
 - [Getting Real](https://www.youtube.com/@gettingreal8980) (Basecamp people)
+- [Liveoverflow](https://www.youtube.com/@LiveOverflow) (Security)
 
 ## Laravel, PHP, MYSQL
 - [Aaron Francis](https://www.youtube.com/@aarondfrancis) (MYSQL)
@@ -45,6 +46,16 @@
 - [Jordan Dalton](https://www.youtube.com/@Daltoncast)
 - [Just Steve King](https://www.youtube.com/@JustSteveKing)
 - [Kiaan's Learning](https://www.youtube.com/@kiaanslearning2724)
+- [Laracademy](https://www.youtube.com/@Laracademy)
+- [Laracasts](https://www.youtube.com/@Laracastsofficial)
+- [Laracon EU](https://www.youtube.com/@LaraconEU)
+- [Laravel](https://www.youtube.com/@LaravelPHP)
+- [Laravel Daily](https://www.youtube.com/@LaravelDaily)
+- [Laravel News](https://www.youtube.com/@laravelnews)
+- [Laravel Podcast](https://www.youtube.com/@LaravelPodcast)
+- [Laravel Switzerland Meetup](https://www.youtube.com/@laravel-switzerland-meetup)
+- [Livewire](https://www.youtube.com/@LivewirePHP)
+
 
 ## HTML, CSS, Frontend, Design
 - [Adam Wathan](https://www.youtube.com/@AdamWathan)
@@ -59,12 +70,14 @@
 - [Hyperplexed](https://www.youtube.com/@Hyperplexed)
 - [Juxtopposed](https://www.youtube.com/@juxtopposed)
 - [Kevin Powell](https://www.youtube.com/@KevinPowell)
+- [Layout Land](https://www.youtube.com/@LayoutLand)
+- [Learn Code Academy](https://www.youtube.com/@learncodeacademy)
 
 ## Soft Skills, Negotiation, Pricing
 - [Jonathan Stark](https://www.youtube.com/@TheJonathanStarkShow)
 - [GCFLearnFree](https://www.youtube.com/@GCFLearnFree)
 
-## Philosophy, Psychology
+## Philosophy, Psychology, Religion
 - [Academy of Ideas](https://www.youtube.com/@academyofideas)
 - [Andrew Humberman](https://www.youtube.com/@hubermanlab)
 - [Big Think](https://www.youtube.com/@bigthink)
@@ -75,6 +88,9 @@
 - [Dr Todd Grande](https://www.youtube.com/@DrGrande)
 - [John Vervaeke](https://www.youtube.com/@johnvervaeke)
 - [Jordan Peterson](https://www.youtube.com/@JordanBPeterson)
+- [Let's Talk Religion](https://www.youtube.com/@LetsTalkReligion)
+- [Lex Fridman](https://www.youtube.com/@lexfridman)
+- [Life After Life](https://www.youtube.com/@Life_After_Life)
 
 ## Self-help, Productivity
 - [Ali Abdaal](https://www.youtube.com/@aliabdaal)
