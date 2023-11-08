@@ -7,6 +7,11 @@
 - [Economics Explained](https://www.youtube.com/@EconomicsExplained)
 - [How Money Works](https://www.youtube.com/@HowMoneyWorks)
 - [Kurzgesagt](https://www.youtube.com/@kurzgesagt)
+- [Mathologer](https://www.youtube.com/@Mathologer)
+- [Mind Your Decisions](https://www.youtube.com/@MindYourDecisions)
+- [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+- [New Money](https://www.youtube.com/@NewMoneyYouTube)
+- [Numerphile](https://www.youtube.com/@numberphile)
 
 ## Software Development
 - [37signals](https://www.youtube.com/@37signals) (Basecamp people, project management)
@@ -18,6 +23,9 @@
 - [Gaurav Sen](https://www.youtube.com/@gkcs) (Algorithms, system design)
 - [Getting Real](https://www.youtube.com/@gettingreal8980) (Basecamp people)
 - [Liveoverflow](https://www.youtube.com/@LiveOverflow) (Security)
+- [MicroConf](https://www.youtube.com/@MicroConf)
+- [Mind the Product](https://www.youtube.com/@MindtheProductTV)
+- [PwnFunctions](https://www.youtube.com/@PwnFunction) (Security)
 
 ## Laravel, PHP, MYSQL
 - [Aaron Francis](https://www.youtube.com/@aarondfrancis) (MYSQL)
@@ -55,7 +63,19 @@
 - [Laravel Podcast](https://www.youtube.com/@LaravelPodcast)
 - [Laravel Switzerland Meetup](https://www.youtube.com/@laravel-switzerland-meetup)
 - [Livewire](https://www.youtube.com/@LivewirePHP)
-
+- [Mateus Guimaraes](https://www.youtube.com/@MateusGuimaraes)
+- [Matt Staufer](https://www.youtube.com/@MattStauffer)
+- [Max Pronko](https://www.youtube.com/@MaxPronkox)
+- [Michael Dyrynda](https://www.youtube.com/@MichaelDyrynda)
+- [Mohamed Said](https://www.youtube.com/@themsaid)
+- [Mohammad Javad Ghasemi](https://www.youtube.com/@ghasemy_javad)
+- [No Plans to Merge](https://www.youtube.com/@noplanstomerge6206)
+- [Nuno Maduro](https://www.youtube.com/@nunomaduro)
+- [PHP Annotated](https://www.youtube.com/@phpannotated)
+- [Planet Scale](https://www.youtube.com/@PlanetScale) (MYSQL)
+- [Program with Gio](https://www.youtube.com/@ProgramWithGio)
+- [Przemyslaw Przylucki](https://www.youtube.com/@saaslaravel)
+- [Ryan Chandler](https://www.youtube.com/@ryangjchandler)
 
 ## HTML, CSS, Frontend, Design
 - [Adam Wathan](https://www.youtube.com/@AdamWathan)
@@ -91,6 +111,10 @@
 - [Let's Talk Religion](https://www.youtube.com/@LetsTalkReligion)
 - [Lex Fridman](https://www.youtube.com/@lexfridman)
 - [Life After Life](https://www.youtube.com/@Life_After_Life)
+- [Powerful JRE](https://www.youtube.com/@joerogan) (Podcasts)
+- [Practical Psychology](https://www.youtube.com/@PracticalPsychologyTips)
+- [Psych2Go](https://www.youtube.com/@Psych2go)
+- [Russel Brand](https://www.youtube.com/@RussellBrand)
 
 ## Self-help, Productivity
 - [Ali Abdaal](https://www.youtube.com/@aliabdaal)
@@ -98,6 +122,12 @@
 - [Charisma on Command](https://www.youtube.com/@Charismaoncommand)
 - [Emily King](https://www.youtube.com/@emilywking)
 - [Joseph Tsar](https://www.youtube.com/@ttsar)
+- [Mark Manson](https://www.youtube.com/@IAmMarkManson)
+- [Matt D'Avella](https://www.youtube.com/@mattdavella)
+- [Geek Psychology](https://www.youtube.com/@GeekPsychology)
+- [Productivity Game](https://www.youtube.com/@ProductivityGame)
+- [Rich Watkins](https://www.youtube.com/@richardwatkins)
 
 ## Uncategorized
 - [DIY Perks](https://www.youtube.com/@DIYPerks) (I like the creative and hands on attitude)
+- [Mark Rober](https://www.youtube.com/@MarkRober)
