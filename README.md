@@ -1,39 +1,5 @@
 # Useful Youtube Channels
 
-## Math and Science
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
-- [Crash Course](https://www.youtube.com/@crashcourse) (Has phylosophy, psychology and human sciences too)
-- [Domain of Science](https://www.youtube.com/@domainofscience)
-- [Economics Explained](https://www.youtube.com/@EconomicsExplained)
-- [How Money Works](https://www.youtube.com/@HowMoneyWorks)
-- [Kurzgesagt](https://www.youtube.com/@kurzgesagt)
-- [Mathologer](https://www.youtube.com/@Mathologer)
-- [Mind Your Decisions](https://www.youtube.com/@MindYourDecisions)
-- [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
-- [New Money](https://www.youtube.com/@NewMoneyYouTube)
-- [Numerphile](https://www.youtube.com/@numberphile)
-- [Two Cents](https://www.youtube.com/@TwoCentsPBS)
-- [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
-
-## Software Development
-- [37signals](https://www.youtube.com/@37signals) (Basecamp people, project management)
-- [Adeva](https://www.youtube.com/@AdevaExplore) (Interviews)
-- [CJ Avilla](https://www.youtube.com/@cjav_dev)
-- [Coding Tech](https://www.youtube.com/@CodingTech) (Conference videos)
-- [DHH](https://www.youtube.com/@davidheinemeierhansson9989) (Creator of Ruby on rails)
-- [FreeCodeCamp](https://www.youtube.com/@freecodecamp) (Tutorials)
-- [Gaurav Sen](https://www.youtube.com/@gkcs) (Algorithms, system design)
-- [Getting Real](https://www.youtube.com/@gettingreal8980) (Basecamp people)
-- [Liveoverflow](https://www.youtube.com/@LiveOverflow) (Security)
-- [MicroConf](https://www.youtube.com/@MicroConf)
-- [Mind the Product](https://www.youtube.com/@MindtheProductTV)
-- [PwnFunctions](https://www.youtube.com/@PwnFunction) (Security)
-- [Success in Tech](https://www.youtube.com/@SuccessinTech) (Scale, architecture)
-- [The Primeagen](https://www.youtube.com/@ThePrimeagen) (Reactions, clips)
-- [The Primetime](https://www.youtube.com/@ThePrimeTimeagen) (Reactions, clips)
-- [The Vimagen](https://www.youtube.com/@TheVimeagen)
-- [YCombinator](https://www.youtube.com/@ycombinator) (Startups)
-
 ## Laravel, PHP, MYSQL
 - [Aaron Francis](https://www.youtube.com/@aarondfrancis) (MYSQL)
 - [Acadea.io](https://www.youtube.com/@Acadeaio)
@@ -118,6 +84,25 @@
 - [Vue Mastery](https://www.youtube.com/@VueMastery)
 - [Zimri Mayfield](https://www.youtube.com/@zimrimayfield)
 
+## Software Development
+- [37signals](https://www.youtube.com/@37signals) (Basecamp people, project management)
+- [Adeva](https://www.youtube.com/@AdevaExplore) (Interviews)
+- [CJ Avilla](https://www.youtube.com/@cjav_dev)
+- [Coding Tech](https://www.youtube.com/@CodingTech) (Conference videos)
+- [DHH](https://www.youtube.com/@davidheinemeierhansson9989) (Creator of Ruby on rails)
+- [FreeCodeCamp](https://www.youtube.com/@freecodecamp) (Tutorials)
+- [Gaurav Sen](https://www.youtube.com/@gkcs) (Algorithms, system design)
+- [Getting Real](https://www.youtube.com/@gettingreal8980) (Basecamp people)
+- [Liveoverflow](https://www.youtube.com/@LiveOverflow) (Security)
+- [MicroConf](https://www.youtube.com/@MicroConf)
+- [Mind the Product](https://www.youtube.com/@MindtheProductTV)
+- [PwnFunctions](https://www.youtube.com/@PwnFunction) (Security)
+- [Success in Tech](https://www.youtube.com/@SuccessinTech) (Scale, architecture)
+- [The Primeagen](https://www.youtube.com/@ThePrimeagen) (Reactions, clips)
+- [The Primetime](https://www.youtube.com/@ThePrimeTimeagen) (Reactions, clips)
+- [The Vimagen](https://www.youtube.com/@TheVimeagen)
+- [YCombinator](https://www.youtube.com/@ycombinator) (Startups)
+
 ## Soft Skills, Negotiation, Pricing
 - [Jonathan Stark](https://www.youtube.com/@TheJonathanStarkShow)
 - [GCFLearnFree](https://www.youtube.com/@GCFLearnFree)
@@ -167,6 +152,21 @@
 - [WheezyWaiter](https://www.youtube.com/@wheezywaiter)
 - [Wolfsuka Book Summaries](https://www.youtube.com/@wolfsukabooksummaries7107)
 
-## Uncategorized
-- [DIY Perks](https://www.youtube.com/@DIYPerks) (I like the creative and hands on attitude)
+## Creative Attitude
+- [DIY Perks](https://www.youtube.com/@DIYPerks)
 - [Mark Rober](https://www.youtube.com/@MarkRober)
+
+## Math and Science
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Crash Course](https://www.youtube.com/@crashcourse) (Has phylosophy, psychology and human sciences too)
+- [Domain of Science](https://www.youtube.com/@domainofscience)
+- [Economics Explained](https://www.youtube.com/@EconomicsExplained)
+- [How Money Works](https://www.youtube.com/@HowMoneyWorks)
+- [Kurzgesagt](https://www.youtube.com/@kurzgesagt)
+- [Mathologer](https://www.youtube.com/@Mathologer)
+- [Mind Your Decisions](https://www.youtube.com/@MindYourDecisions)
+- [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+- [New Money](https://www.youtube.com/@NewMoneyYouTube)
+- [Numerphile](https://www.youtube.com/@numberphile)
+- [Two Cents](https://www.youtube.com/@TwoCentsPBS)
+- [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
