@@ -55,6 +55,7 @@
 - [StreamACon Conferences](https://www.youtube.com/@streamaconstreamingconfere6463)
 - [Tall Stack Stories](https://www.youtube.com/@tallstackstories)
 - [TallForms](https://www.youtube.com/@tallforms9113)
+- [Tallpad](https://www.youtube.com/@cdruc)
 - [Taylor Otwell](https://www.youtube.com/@taylorotwell6213)
 - [The Codeholic](https://www.youtube.com/@TheCodeholic)
 - [Tony Messias](https://www.youtube.com/@TonyMessias)
@@ -101,6 +102,7 @@
 - [The Primeagen](https://www.youtube.com/@ThePrimeagen) (Reactions, clips)
 - [The Primetime](https://www.youtube.com/@ThePrimeTimeagen) (Reactions, clips)
 - [The Vimagen](https://www.youtube.com/@TheVimeagen)
+- [Traversy Media](https://www.youtube.com/@TraversyMedia)
 - [YCombinator](https://www.youtube.com/@ycombinator) (Startups)
 
 # 👥 Soft Skills, Negotiation, Pricing
@@ -118,6 +120,8 @@
 - [Chris Williamson](https://www.youtube.com/@ChrisWillx)
 - [Daily Stoic](https://www.youtube.com/@DailyStoic)
 - [Dr Todd Grande](https://www.youtube.com/@DrGrande)
+- [Einzelganger](https://www.youtube.com/@Einzelganger)
+- [Freedom in Thought](https://www.youtube.com/@FreedominThought)
 - [John Vervaeke](https://www.youtube.com/@johnvervaeke)
 - [Jordan Peterson](https://www.youtube.com/@JordanBPeterson)
 - [Let's Talk Religion](https://www.youtube.com/@LetsTalkReligion)
@@ -131,6 +135,8 @@
 - [Sam Harris](https://www.youtube.com/@samharrisorg)
 - [SciShow Psych](https://www.youtube.com/@SciShowPsych)
 - [Sprouts](https://www.youtube.com/@sprouts)
+- [TED](https://www.youtube.com/@TED)
+- [TED-Ed](https://www.youtube.com/@TEDEd)
 - [The School of Life](https://www.youtube.com/@theschooloflifetv)
 - [Tim Ferris](https://www.youtube.com/@timferriss)
 - [Waking Up](https://www.youtube.com/@WakingUpApp)
@@ -138,7 +144,9 @@
 - [Yuval Noah Harari](https://www.youtube.com/@YuvalNoahHarari)
 
 # 🧘 Self-help, Productivity
+- [AfterSkool](https://www.youtube.com/@AfterSkool)
 - [Ali Abdaal](https://www.youtube.com/@aliabdaal)
+- [Bobby Chiu](https://www.youtube.com/@BobbyChiu)
 - [Captain Sinbad](https://www.youtube.com/@CaptainSinbad)
 - [Charisma on Command](https://www.youtube.com/@Charismaoncommand)
 - [Emily King](https://www.youtube.com/@emilywking)
@@ -148,6 +156,7 @@
 - [Geek Psychology](https://www.youtube.com/@GeekPsychology)
 - [Productivity Game](https://www.youtube.com/@ProductivityGame)
 - [Rich Watkins](https://www.youtube.com/@richardwatkins)
+- [The Art of Improvement](https://www.youtube.com/@TheArtofImprovement)
 - [What I've Learned](https://www.youtube.com/@WhatIveLearned)
 - [WheezyWaiter](https://www.youtube.com/@wheezywaiter)
 - [Wolfsuka Book Summaries](https://www.youtube.com/@wolfsukabooksummaries7107)
