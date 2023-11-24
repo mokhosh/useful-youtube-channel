@@ -18,6 +18,7 @@
 - [Daniel Coulbourne](https://www.youtube.com/@danielcoulbourne)
 - [Database Star](https://www.youtube.com/@DatabaseStar) (SQL)
 - [David Grzyb](https://www.youtube.com/@DavidGrzyb)
+- [Designated Coder](https://www.youtube.com/@DesignatedCoder)
 - [Filament Daily](https://www.youtube.com/@FilamentDaily)
 - [Freek Van der Herten](https://www.youtube.com/@freekmurze)
 - [Gary Clark](https://www.youtube.com/@GaryClarkeTech)
