@@ -30,6 +30,7 @@
 - [Kiaan's Learning](https://www.youtube.com/@kiaanslearning2724)
 - [Laracademy](https://www.youtube.com/@Laracademy)
 - [Laracasts](https://www.youtube.com/@Laracastsofficial)
+- [Laracon AU](https://www.youtube.com/@LaraconAU)
 - [Laracon EU](https://www.youtube.com/@LaraconEU)
 - [Laravel](https://www.youtube.com/@LaravelPHP)
 - [Laravel Daily](https://www.youtube.com/@LaravelDaily)
