@@ -26,6 +26,7 @@
 - [Himanshu Batra](https://www.youtube.com/@batraio)
 - [Jason Mccreary](https://www.youtube.com/@thejasonmccreary)
 - [Jordan Dalton](https://www.youtube.com/@Daltoncast)
+- [Josh Cirre](https://www.youtube.com/@joshcirre)
 - [Just Steve King](https://www.youtube.com/@JustSteveKing)
 - [Kiaan's Learning](https://www.youtube.com/@kiaanslearning2724)
 - [Laracademy](https://www.youtube.com/@Laracademy)
