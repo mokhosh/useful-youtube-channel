@@ -65,6 +65,7 @@
 - [Tilly The Coder](https://www.youtube.com/@TillyTheCoder)
 - [Tony Messias](https://www.youtube.com/@TonyMessias)
 - [Tuto1902](https://www.youtube.com/@Tuto1902)
+- [williamsk](https://www.youtube.com/@williamsk)
 - [Yelo Code](https://www.youtube.com/@yelocode)
 
 # 💅 HTML, CSS, Frontend, Design
